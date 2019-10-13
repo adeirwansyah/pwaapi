@@ -1,0 +1,23 @@
+{
+"products"[
+{"id":1,"nama":"Bison, american","category":"Crimson"},
+{"id":2,"nama":"Openbill stork","category":"Aquamarine"},
+{"id":3,"nama":"Otter, small-clawed","category":"Green"},
+{"id":4,"nama":"Swallow (unidentified)","category":"Puce"},
+{"id":5,"nama":"Cormorant, javanese","category":"Mauv"},
+{"id":6,"nama":"American Virginia opossum","category":"Blue"},
+{"id":7,"nama":"Canada goose","category":"Mauv"},
+{"id":8,"nama":"Cuis","category":"Indigo"},
+{"id":9,"nama":"Fox, crab-eating","category":"Red"},
+{"id":10,"nama":"Stone sheep","category":"Fuscia"},
+{"id":11,"nama":"Black spider monkey","category":"Mauv"},
+{"id":12,"nama":"Gambel's quail","category":"Aquamarine"},
+{"id":13,"nama":"Lizard, desert spiny","category":"Khaki"},
+{"id":14,"nama":"Levaillant's barbet","category":"Violet"},
+{"id":15,"nama":"Galah","category":"Aquamarine"},
+{"id":16,"nama":"Curve-billed thrasher","category":"Indigo"},
+{"id":17,"nama":"Eland, common","category":"Mauv"},
+{"id":18,"nama":"Buttermilk snake","category":"Orange"},
+{"id":19,"nama":"Wallaby, agile","category":"Fuscia"},
+{"id":20,"nama":"Turtle, eastern box","category":"Goldenrod"}
+]}
